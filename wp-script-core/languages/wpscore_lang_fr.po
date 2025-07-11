@@ -1,0 +1,669 @@
+# Copyright (C) 2025 WPS Core
+# This file is distributed under the same license as the WPS Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-14 09:34+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: ../config.php:20, ../wp-script-core.php:1068, ../wp-script-core.php:1077
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: ../config.php:25
+msgid "Logs"
+msgstr "Registres"
+
+#: ../localize.php:8
+msgid "Error, please try again later"
+msgstr "Erreur, veuillez réessayer plus tard"
+
+#: ../localize.php:9, ../admin/pages/page-dashboard.php:95, ../admin/pages/page-dashboard.php:124
+msgid "Reloading"
+msgstr "Rechargement"
+
+#: ../localize.php:10
+msgid "Why you need to verify this website?"
+msgstr "Pourquoi vous devez vérifier ce site?"
+
+#: ../localize.php:11
+msgid "This verification ensures that you own this site."
+msgstr "Cette vérification garantit que vous possédez ce site."
+
+#: ../localize.php:12
+msgid "It helps to secure your data in case your individual WP-Script license key is stolen or lost."
+msgstr "Il aide à sécuriser vos données au cas où votre clé de licence WP-Script individuelle est volée ou perdue."
+
+#: ../localize.php:13
+msgid "How to verify this website?"
+msgstr "Comment vérifier ce site?"
+
+#: ../localize.php:14
+msgid "Get the site verification code"
+msgstr "Obtenir le code de vérification du site"
+
+#: ../localize.php:15
+msgid "Paste the code here"
+msgstr "Collez le code ici"
+
+#: ../localize.php:16
+msgid "Verify this website"
+msgstr "Vérifier ce site"
+
+#: ../localize.php:17
+msgid "Need help?"
+msgstr "Besoin d'aide ?"
+
+#: ../localize.php:18
+msgid "Read the documentation"
+msgstr "Lire la documentation"
+
+#: ../localize.php:19
+msgid "Open a support ticket"
+msgstr "Ouvrir un billet d'assistance"
+
+#: ../localize.php:20
+msgid "days left to verify your website."
+msgstr "jours restants pour vérifier votre site web."
+
+#: ../localize.php:21
+msgid "Your products on this site will be blocked after this date."
+msgstr "Vos produits sur ce site seront bloqués après cette date."
+
+#: ../localize.php:22
+msgid "Make sure to verify all your sites that use WP-Script products."
+msgstr "Assurez-vous de vérifier tous vos sites utilisant des produits WP-Script."
+
+#: ../localize.php:23
+msgid "Your products on this site are blocked until you verify this website."
+msgstr "Vos produits sur ce site sont bloqués jusqu'à ce que vous vérifiiez ce site Web."
+
+#: ../localize.php:24
+msgid "Make sure to verify all your websites that use WP-Script products."
+msgstr "Assurez-vous de vérifier tous vos sites Web qui utilisent des produits WP-Script."
+
+#: ../localize.php:25
+msgid "Requirements"
+msgstr "Prescriptions"
+
+#: ../localize.php:26
+msgid "Not installed"
+msgstr "Non installé"
+
+#: ../localize.php:27
+msgid "View details about"
+msgstr "Voir détails sur"
+
+#: ../localize.php:28, ../admin/pages/page-dashboard.php:39, ../admin/pages/page-dashboard.php:83, ../admin/pages/page-dashboard.php:218
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: ../localize.php:29
+msgid "Install"
+msgstr "Installez"
+
+#: ../localize.php:30
+msgid "Installing"
+msgstr "Installation"
+
+#: ../localize.php:31, ../admin/pages/page-dashboard.php:94, ../admin/pages/page-dashboard.php:135
+msgid "Activating"
+msgstr "Activation"
+
+#: ../localize.php:32
+msgid "Connect"
+msgstr "Connect"
+
+#: ../localize.php:33
+msgid "Buy"
+msgstr "Acheter"
+
+#: ../localize.php:34
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: ../localize.php:35, ../admin/pages/page-dashboard.php:92
+msgid "Update to"
+msgstr "Mettre à jour vers"
+
+#: ../localize.php:36, ../admin/pages/page-dashboard.php:93
+msgid "Updating to"
+msgstr "Mise à jour vers"
+
+#: ../localize.php:37, ../admin/pages/page-dashboard.php:138
+msgid "Activate"
+msgstr "Activer"
+
+#: ../localize.php:38
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: ../localize.php:39
+msgid "Deactivating"
+msgstr "Désactivation"
+
+#: ../localize.php:40
+msgid "Active theme"
+msgstr "Thème actif"
+
+#: ../localize.php:41
+msgid "must be installed to use it"
+msgstr "doit être installé pour l'utiliser"
+
+#: ../localize.php:42
+msgid "on"
+msgstr "on"
+
+#: ../localize.php:43
+msgid "Connecting will decrease your remaining websites by 1"
+msgstr "Le raccordement diminuera vos sites Web restants par 1"
+
+#: ../localize.php:44
+msgid "Remaining websites"
+msgstr "Sites Web restants"
+
+#: ../localize.php:45
+msgid "Connection of"
+msgstr "Connexion"
+
+#: ../localize.php:46
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../localize.php:47, ../admin/pages/page-logs.php:59, ../admin/pages/page-logs.php:71
+msgid "All"
+msgstr "Tout"
+
+#: ../localize.php:48
+msgid "Connected"
+msgstr "Connecté"
+
+#: ../localize.php:49
+msgid "Not connected"
+msgstr "Non connecté"
+
+#: ../localize.php:50, ../admin/pages/page-dashboard.php:316
+msgid "Installed"
+msgstr "Installés"
+
+#: ../localize.php:51
+msgid "Invalid License Key"
+msgstr "Clé de licence invalide"
+
+#: ../localize.php:52, ../admin/pages/page-dashboard.php:227
+msgid "Credits left"
+msgstr "Crédits laissés"
+
+#: ../localize.php:53, ../admin/hooks/hooks.php:378, ../admin/pages/page-dashboard.php:228
+msgid "Get more Credits"
+msgstr "Obtenez plus de crédits"
+
+#: ../localize.php:54
+msgid "Error while getting credits balance"
+msgstr "Erreur lors de l'obtention du solde des crédits"
+
+#: ../localize.php:55, ../admin/hooks/hooks.php:231, ../admin/hooks/hooks.php:241
+msgid "Rewriting the title"
+msgstr "Réécrire le titre"
+
+#: ../localize.php:56, ../admin/hooks/hooks.php:232, ../admin/hooks/hooks.php:242
+msgid "Generating the description"
+msgstr "Génération de la description"
+
+#: ../wp-script-core.php:72, ../wp-script-core.php:81, ../admin/class/class-wpscore-api.php:61, ../admin/class/class-wpscore-api.php:69, ../admin/logs/class-wpscore-log.php:50, ../admin/logs/class-wpscore-log.php:58
+msgid "Do not clone or wake up this class"
+msgstr "Ne pas cloner ni réveiller cette classe"
+
+#: ../wp-script-core.php:200
+msgid "Site verification required for WP-Script products!"
+msgstr "Vérification du site requise pour les produits WP-Script!"
+
+#: ../wp-script-core.php:200
+msgid "Please verify now"
+msgstr "Veuillez vérifier maintenant"
+
+#: ../wp-script-core.php:221
+msgid "WPS AI Debug mode is enabled:"
+msgstr "Le mode de débogage WPS AI est activé:"
+
+#: ../wp-script-core.php:223
+msgid "wps_ai_job CPT is shown in UI"
+msgstr "_Emploi CPT est indiqué en UI"
+
+#: ../wp-script-core.php:224
+msgid "Content is generated from pre-rendered data"
+msgstr "Le contenu est généré à partir de données pré-rendues"
+
+#: ../wp-script-core.php:225
+msgid "Credits are not used"
+msgstr "Les crédits ne sont pas utilisés"
+
+#: ../wp-script-core.php:229
+msgid "This mode is only enabled on this device."
+msgstr "Ce mode n'est activé que sur ce périphérique."
+
+#: ../wp-script-core.php:230
+msgid "You can disable it by removing the cookie."
+msgstr "Vous pouvez le désactiver en supprimant le cookie."
+
+#: ../wp-script-core.php:746, ../wp-script-core.php:768, ../wp-script-core.php:790
+msgid "Invalid key to retrieve option"
+msgstr "Clé non valide pour récupérer l'option"
+
+#: ../wp-script-core.php:1086, ../wp-script-core.php:1086, ../wp-script-core.php:1233
+msgid "Help"
+msgstr "Aide"
+
+#: ../wp-script-core.php:1137
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+#: ../wp-script-core.php:1223
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../wp-script-core.php:1254
+msgid "Thank you for using"
+msgstr "Merci d'utiliser"
+
+#: ../admin/class/class-wpscore-api.php:99, ../admin/class/class-wpscore-api.php:121
+msgid "Params must be an array"
+msgstr "Params doit être un tableau"
+
+#: ../admin/class/class-wpscore-product-installer.php:57
+msgid "You do not have sufficient permissions to install themes for this site."
+msgstr "Vous n'avez pas suffisamment de permissions pour installer des thèmes pour ce site."
+
+#: ../admin/class/class-wpscore-product-installer.php:64
+msgid "You do not have sufficient permissions to install plugins for this site."
+msgstr "Vous n'avez pas suffisamment de permissions pour installer des plugins pour ce site."
+
+#: ../admin/cron-x/cron-bulk-ai.php:23
+msgid "Every 5 mins"
+msgstr "Toutes les 5 minutes"
+
+#: ../admin/hooks/hooks.php:151
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../admin/hooks/hooks.php:152
+msgid "AI Content Generation"
+msgstr "Production de contenu AI"
+
+#: ../admin/hooks/hooks.php:251, ../admin/hooks/hooks.php:252, ../admin/hooks/hooks.php:583, ../admin/pages/page-logs.php:63
+msgid "Error"
+msgstr "Erreur"
+
+#: ../admin/hooks/hooks.php:261
+msgid "Rewritten"
+msgstr "Réécrit"
+
+#: ../admin/hooks/hooks.php:262, ../admin/hooks/hooks.php:582
+msgid "Generated"
+msgstr "Générés"
+
+#: ../admin/hooks/hooks.php:272
+msgid "Not rewritten"
+msgstr "Non réécrit"
+
+#: ../admin/hooks/hooks.php:273
+msgid "Rewrite"
+msgstr "Réécrire"
+
+#: ../admin/hooks/hooks.php:283
+msgid "No description"
+msgstr "Aucune description"
+
+#: ../admin/hooks/hooks.php:284
+msgid "Generate"
+msgstr "Générer"
+
+#: ../admin/hooks/hooks.php:341
+msgid "The AI cannot generate content on posts that are not videos."
+msgstr "L'IA ne peut pas générer de contenu sur des messages qui ne sont pas des vidéos."
+
+#: ../admin/hooks/hooks.php:350
+msgid "The AI cannot generate content based on the current post title"
+msgstr "L'IA ne peut pas générer de contenu basé sur le titre actuel du post"
+
+#: ../admin/hooks/hooks.php:389, ../admin/pages/page-dashboard.php:211
+msgid "AI content generation"
+msgstr "Production de contenu AI"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credits"
+msgstr "crédits ouverts"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credit"
+msgstr "créditeur"
+
+#: ../admin/hooks/hooks.php:417
+msgid "Original title"
+msgstr "Titre original"
+
+#: ../admin/hooks/hooks.php:470
+msgid "Some new WP-Script products versions are available:"
+msgstr "Quelques nouvelles versions de produits WP-Script sont disponibles:"
+
+#: ../admin/hooks/hooks.php:478, ../admin/hooks/hooks.php:474
+msgid "Update"
+msgstr "Mise à jour"
+
+#: ../admin/hooks/hooks.php:478
+msgid "Changelog"
+msgstr "Changer de journal"
+
+#: ../admin/hooks/hooks.php:467
+msgid "Some new WP-Script products versions are available."
+msgstr "Certaines nouvelles versions de produits WP-Script sont disponibles."
+
+#: ../admin/hooks/hooks.php:468
+msgid "Scroll down on this page and press green update buttons to update products"
+msgstr "Faites défiler vers le bas sur cette page et appuyez sur les boutons de mise à jour verte pour mettre à jour les produits"
+
+#: ../admin/hooks/hooks.php:527
+msgid "All Partners"
+msgstr "Tous les partenaires"
+
+#: ../admin/hooks/hooks.php:574
+msgid "Title"
+msgstr "Titre"
+
+#: ../admin/hooks/hooks.php:575
+msgid "Description"
+msgstr "Description"
+
+#: ../admin/hooks/hooks.php:579
+msgid "All AI statuses"
+msgstr "Tous les statuts AI"
+
+#: ../admin/hooks/hooks.php:580
+msgid "No status"
+msgstr "Pas de statut"
+
+#: ../admin/hooks/hooks.php:581
+msgid "Processing"
+msgstr "Traitement"
+
+#: ../admin/pages/page-dashboard.php:31
+msgid "Loading Core"
+msgstr "Chargement du Core"
+
+#: ../admin/pages/page-dashboard.php:38
+msgid "Wordfence firewall is enabled"
+msgstr "Le pare-feu de Wordfence est activé"
+
+#: ../admin/pages/page-dashboard.php:39
+msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
+msgstr "Le mode par-feu de Wordfence est activé et peut empêcher les plugins WP-Script de fonctionner correctement à cause de faux positifs."
+
+#: ../admin/pages/page-dashboard.php:70
+msgid "Loading Data"
+msgstr "Chargement des données"
+
+#: ../admin/pages/page-dashboard.php:79
+msgid "Get All Products / Unlimited Sites for only"
+msgstr "Obtenez tous les produits / sites illimités pour seulement"
+
+#: ../admin/pages/page-dashboard.php:100
+msgid "Site verified"
+msgstr "Site vérifié"
+
+#: ../admin/pages/page-dashboard.php:109
+msgid "Site verification required"
+msgstr "Vérification du site requise"
+
+#: ../admin/pages/page-dashboard.php:122
+msgid "Activation required"
+msgstr "Activation requise"
+
+#: ../admin/pages/page-dashboard.php:124
+msgid "Activation Successful"
+msgstr "Activation réussie"
+
+#: ../admin/pages/page-dashboard.php:131
+msgid "Paste your WP-Script License Key here"
+msgstr "Collez votre licence WP-Script clé ici"
+
+#: ../admin/pages/page-dashboard.php:145, ../admin/pages/page-dashboard.php:145
+msgid "Go to your WP-Script account to get your license key"
+msgstr "Accédez à votre compte WP-Script pour obtenir votre clé de licence"
+
+#: ../admin/pages/page-dashboard.php:148
+msgid "You don't have a WP-Script license yet?"
+msgstr "Vous n'avez pas encore de licence WP-Script?"
+
+#: ../admin/pages/page-dashboard.php:160
+msgid "Creating account"
+msgstr "Création de votre compte"
+
+#: ../admin/pages/page-dashboard.php:163
+msgid "Create my WP-Script Account"
+msgstr "Créer mon compte WP-Script"
+
+#: ../admin/pages/page-dashboard.php:170
+msgid "You will receive your login details to this email address"
+msgstr "Vous recevrez vos informations de connexion à cette adresse e-mail"
+
+#: ../admin/pages/page-dashboard.php:183
+msgid "Your WP-Script License Key"
+msgstr "Votre clé de licence WP-Script"
+
+#: ../admin/pages/page-dashboard.php:203
+msgid "Your license key is valid but hidden for security reasons."
+msgstr "Votre clé de licence est valide mais masquée pour des raisons de sécurité."
+
+#: ../admin/pages/page-dashboard.php:209
+msgid "WPS AI Content Generator"
+msgstr "Générateur de contenu WPS AI"
+
+#: ../admin/pages/page-dashboard.php:212
+msgid "Boost your SEO with AI"
+msgstr "Boostez votre référencement avec AI"
+
+#: ../admin/pages/page-dashboard.php:216
+msgid "Rewrite videos titles and generate unique descriptions in no time with Uncensored AI."
+msgstr "Réécrire les titres de vidéos et générer des descriptions uniques en un rien de temps avec l'IA non censurée."
+
+#: ../admin/pages/page-dashboard.php:239
+msgid "We could not retrieve products list from WP-Script."
+msgstr "Nous n'avons pas pu récupérer la liste des produits depuis WP-Script."
+
+#: ../admin/pages/page-dashboard.php:57
+msgid "A more recent PHP version is required"
+msgstr "Une version PHP plus récente est requise"
+
+#: ../admin/pages/page-dashboard.php:60
+msgctxt "[PHP version] is required..."
+msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
+msgstr "est nécessaire pour utiliser les produits WP-Script. Votre version de PHP (%s) est trop ancienne. Contactez"
+
+#: ../admin/pages/page-dashboard.php:48
+msgid "Administrator Area"
+msgstr "Espace Administrateur"
+
+#: ../admin/pages/page-dashboard.php:50
+msgid "You must be logged as an Administrator to access this page."
+msgstr "Vous devez être connecté en tant qu'administrateur pour accéder à cette page."
+
+#: ../admin/pages/page-dashboard.php:250
+msgid "cUrl version"
+msgstr "c Version anglaise"
+
+#: ../admin/pages/page-dashboard.php:261, ../admin/pages/page-dashboard.php:303, ../admin/pages/page-dashboard.php:353
+msgid "Close"
+msgstr "Fermer"
+
+#: ../admin/pages/page-dashboard.php:262
+msgid "How WP-Script products connection works?"
+msgstr "Comment fonctionne la connexion des produits WP-Script?"
+
+#: ../admin/pages/page-dashboard.php:266
+msgid "The button under each product will automatically change depending on the step you are in."
+msgstr "Le bouton sous chaque produit change automatiquement en fonction de l'étape où vous êtes."
+
+#: ../admin/pages/page-dashboard.php:270
+msgid "Purchase any product you need"
+msgstr "Acheter un produit dont vous avez besoin"
+
+#: ../admin/pages/page-dashboard.php:276
+msgid "Connect the purchased product"
+msgstr "Connecter le produit acheté"
+
+#: ../admin/pages/page-dashboard.php:282
+msgid "Install the purchased product"
+msgstr "Installer le produit acheté"
+
+#: ../admin/pages/page-dashboard.php:288
+msgid "Activate the purchased product"
+msgstr "Activer le produit acheté"
+
+#: ../admin/pages/page-dashboard.php:304
+msgid "Requirements for"
+msgstr "Exigences pour"
+
+#: ../admin/pages/page-dashboard.php:308
+msgid "There is no requirement to use this product. This product will work properly."
+msgstr "Il n'y a pas de prérequis pour utiliser ce produit. Ce produit fonctionnera correctement."
+
+#: ../admin/pages/page-dashboard.php:311
+msgid "The following PHP elements must be installed on your server to use this product"
+msgstr "Les éléments PHP suivants doivent être installés sur votre serveur pour utiliser ce produit"
+
+#: ../admin/pages/page-dashboard.php:314
+msgid "Name"
+msgstr "Nom"
+
+#: ../admin/pages/page-dashboard.php:315, ../admin/pages/page-logs.php:57
+msgid "Type"
+msgstr "Type"
+
+#: ../admin/pages/page-dashboard.php:327
+msgid "yes"
+msgstr "oui"
+
+#: ../admin/pages/page-dashboard.php:330
+msgid "no"
+msgstr "non"
+
+#: ../admin/pages/page-dashboard.php:336
+msgid "All required PHP elements are installed on your server. This product will work properly."
+msgstr "Tous les éléments PHP requis sont installés sur votre serveur. Ce produit fonctionnera correctement."
+
+#: ../admin/pages/page-dashboard.php:339
+msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
+msgstr "Certains éléments PHP ne sont pas installés sur votre serveur. Ce produit peut ne pas fonctionner correctement."
+
+#: ../admin/pages/page-dashboard.php:354
+msgid "An error occured while installing or updating"
+msgstr "Une erreur est survenue lors de l'installation ou la mise à jour"
+
+#: ../admin/pages/page-dashboard.php:360
+msgid "Your server configuration prevents the product to be installed automatically."
+msgstr "La configuration de votre serveur empêche le produit d'être installé automatiquement."
+
+#: ../admin/pages/page-dashboard.php:363
+msgid "Please try to install the product manually."
+msgstr "Veuillez essayer d'installer le produit manuellement."
+
+#: ../admin/pages/page-dashboard.php:366
+msgid "Guide to install a WP-Script Theme manually"
+msgstr "Guide pour installer manuellement un thème WP-Script"
+
+#: ../admin/pages/page-dashboard.php:368
+msgid "Guide to install a WP-Script Plugin manually"
+msgstr "Guide pour installer manuellement un plugin WP-Script"
+
+#: ../admin/pages/page-logs.php:27
+msgid "Loading Core..."
+msgstr "Chargement du noyau..."
+
+#: ../admin/pages/page-logs.php:35
+msgid "Loading Data..."
+msgstr "Chargement des données..."
+
+#: ../admin/pages/page-logs.php:41
+msgid "No log has been written yet"
+msgstr "Aucun journal n'a encore été écrit"
+
+#: ../admin/pages/page-logs.php:46
+msgid "Copy logs to clipboard"
+msgstr "Copier le journal au presse-papiers"
+
+#: ../admin/pages/page-logs.php:47
+msgid "Delete logs"
+msgstr "Supprimer les journaux"
+
+#: ../admin/pages/page-logs.php:54
+msgid "Date"
+msgstr "Date"
+
+#: ../admin/pages/page-logs.php:60
+msgid "Success"
+msgstr "Succès"
+
+#: ../admin/pages/page-logs.php:61
+msgid "Notice"
+msgstr "Remarque"
+
+#: ../admin/pages/page-logs.php:62
+msgid "Warning"
+msgstr "Attention"
+
+#: ../admin/pages/page-logs.php:69
+msgid "Product"
+msgstr "Produit"
+
+#: ../admin/pages/page-logs.php:77
+msgid "Message"
+msgstr "Message"
+
+#: ../admin/pages/page-logs.php:78
+msgid "Filter messages"
+msgstr "Filtrer les messages"
+
+#: ../admin/pages/page-logs.php:82
+msgid "Location"
+msgstr "Emplacement"
+
+#: ../admin/pages/page-logs.php:83
+msgid "Filter locations"
+msgstr "Emplacements des filtres"
+
+#: ../xbox/includes/class-admin-page.php:32
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: ../xbox/includes/class-admin-page.php:34
+msgid "Reset to Defaults"
+msgstr "Réinitialiser les paramètres par défaut"
+
+#: ../xbox/includes/class-admin-page.php:92, ../xbox/includes/class-admin-page.php:93
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../xbox/includes/class-field-types.php:310
+msgid "Add thumbnails"
+msgstr "Ajouter des vignettes"
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr "Terminé."
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "Amusez-vous!"

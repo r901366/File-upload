@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "code": {
+      "type": "string",
+      "pattern": "^(?:success|error)$"
+    },
+    "message": {
+      "type": "string"
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "integer"
+        },
+        "credits_left": {
+          "type": "integer"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "action_name": {
+                "type": "string"
+              },
+              "action_id": {
+                "type": "string"
+              },
+              "code": {
+                "type": "string",
+                "pattern": "^(?:success|error)$"
+              },
+              "message": {
+                "type": "string"
+              },
+              "ai_job_created": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string"
+                  },
+                  "status": {
+                    "type": "string",
+                    "pattern": "^(?:pending|processing|completed|failed)$"
+                  }
+                },
+                "required": [
+                  "id",
+                  "status"
+                ],
+                "additionalItems": false,
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "action_name",
+              "action_id",
+              "code",
+              "message"
+            ],
+            "additionalItems": false,
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "status",
+        "credits_left",
+        "actions"
+      ],
+      "additionalItems": false,
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "code",
+    "message",
+    "data"
+  ],
+  "additionalItems": false,
+  "additionalProperties": false
+}

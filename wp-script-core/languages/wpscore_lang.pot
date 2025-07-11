@@ -1,0 +1,664 @@
+# Copyright (C) 2025 WPS Core
+# This file is distributed under the same license as the WPS Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-14 09:34+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../config.php:20, ../wp-script-core.php:1068, ../wp-script-core.php:1077
+msgid "Dashboard"
+msgstr ""
+
+#: ../config.php:25
+msgid "Logs"
+msgstr ""
+
+#: ../localize.php:8
+msgid "Error, please try again later"
+msgstr ""
+
+#: ../localize.php:9, ../admin/pages/page-dashboard.php:95, ../admin/pages/page-dashboard.php:124
+msgid "Reloading"
+msgstr ""
+
+#: ../localize.php:10
+msgid "Why you need to verify this website?"
+msgstr ""
+
+#: ../localize.php:11
+msgid "This verification ensures that you own this site."
+msgstr ""
+
+#: ../localize.php:12
+msgid "It helps to secure your data in case your individual WP-Script license key is stolen or lost."
+msgstr ""
+
+#: ../localize.php:13
+msgid "How to verify this website?"
+msgstr ""
+
+#: ../localize.php:14
+msgid "Get the site verification code"
+msgstr ""
+
+#: ../localize.php:15
+msgid "Paste the code here"
+msgstr ""
+
+#: ../localize.php:16
+msgid "Verify this website"
+msgstr ""
+
+#: ../localize.php:17
+msgid "Need help?"
+msgstr ""
+
+#: ../localize.php:18
+msgid "Read the documentation"
+msgstr ""
+
+#: ../localize.php:19
+msgid "Open a support ticket"
+msgstr ""
+
+#: ../localize.php:20
+msgid "days left to verify your website."
+msgstr ""
+
+#: ../localize.php:21
+msgid "Your products on this site will be blocked after this date."
+msgstr ""
+
+#: ../localize.php:22
+msgid "Make sure to verify all your sites that use WP-Script products."
+msgstr ""
+
+#: ../localize.php:23
+msgid "Your products on this site are blocked until you verify this website."
+msgstr ""
+
+#: ../localize.php:24
+msgid "Make sure to verify all your websites that use WP-Script products."
+msgstr ""
+
+#: ../localize.php:25
+msgid "Requirements"
+msgstr ""
+
+#: ../localize.php:26
+msgid "Not installed"
+msgstr ""
+
+#: ../localize.php:27
+msgid "View details about"
+msgstr ""
+
+#: ../localize.php:28, ../admin/pages/page-dashboard.php:39, ../admin/pages/page-dashboard.php:83, ../admin/pages/page-dashboard.php:218
+msgid "Learn more"
+msgstr ""
+
+#: ../localize.php:29
+msgid "Install"
+msgstr ""
+
+#: ../localize.php:30
+msgid "Installing"
+msgstr ""
+
+#: ../localize.php:31, ../admin/pages/page-dashboard.php:94, ../admin/pages/page-dashboard.php:135
+msgid "Activating"
+msgstr ""
+
+#: ../localize.php:32
+msgid "Connect"
+msgstr ""
+
+#: ../localize.php:33
+msgid "Buy"
+msgstr ""
+
+#: ../localize.php:34
+msgid "Buy now"
+msgstr ""
+
+#: ../localize.php:35, ../admin/pages/page-dashboard.php:92
+msgid "Update to"
+msgstr ""
+
+#: ../localize.php:36, ../admin/pages/page-dashboard.php:93
+msgid "Updating to"
+msgstr ""
+
+#: ../localize.php:37, ../admin/pages/page-dashboard.php:138
+msgid "Activate"
+msgstr ""
+
+#: ../localize.php:38
+msgid "Deactivate"
+msgstr ""
+
+#: ../localize.php:39
+msgid "Deactivating"
+msgstr ""
+
+#: ../localize.php:40
+msgid "Active theme"
+msgstr ""
+
+#: ../localize.php:41
+msgid "must be installed to use it"
+msgstr ""
+
+#: ../localize.php:42
+msgid "on"
+msgstr ""
+
+#: ../localize.php:43
+msgid "Connecting will decrease your remaining websites by 1"
+msgstr ""
+
+#: ../localize.php:44
+msgid "Remaining websites"
+msgstr ""
+
+#: ../localize.php:45
+msgid "Connection of"
+msgstr ""
+
+#: ../localize.php:46
+msgid "Cancel"
+msgstr ""
+
+#: ../localize.php:47, ../admin/pages/page-logs.php:59, ../admin/pages/page-logs.php:71
+msgid "All"
+msgstr ""
+
+#: ../localize.php:48
+msgid "Connected"
+msgstr ""
+
+#: ../localize.php:49
+msgid "Not connected"
+msgstr ""
+
+#: ../localize.php:50, ../admin/pages/page-dashboard.php:316
+msgid "Installed"
+msgstr ""
+
+#: ../localize.php:51
+msgid "Invalid License Key"
+msgstr ""
+
+#: ../localize.php:52, ../admin/pages/page-dashboard.php:227
+msgid "Credits left"
+msgstr ""
+
+#: ../localize.php:53, ../admin/hooks/hooks.php:378, ../admin/pages/page-dashboard.php:228
+msgid "Get more Credits"
+msgstr ""
+
+#: ../localize.php:54
+msgid "Error while getting credits balance"
+msgstr ""
+
+#: ../localize.php:55, ../admin/hooks/hooks.php:231, ../admin/hooks/hooks.php:241
+msgid "Rewriting the title"
+msgstr ""
+
+#: ../localize.php:56, ../admin/hooks/hooks.php:232, ../admin/hooks/hooks.php:242
+msgid "Generating the description"
+msgstr ""
+
+#: ../wp-script-core.php:72, ../wp-script-core.php:81, ../admin/class/class-wpscore-api.php:61, ../admin/class/class-wpscore-api.php:69, ../admin/logs/class-wpscore-log.php:50, ../admin/logs/class-wpscore-log.php:58
+msgid "Do not clone or wake up this class"
+msgstr ""
+
+#: ../wp-script-core.php:200
+msgid "Site verification required for WP-Script products!"
+msgstr ""
+
+#: ../wp-script-core.php:200
+msgid "Please verify now"
+msgstr ""
+
+#: ../wp-script-core.php:221
+msgid "WPS AI Debug mode is enabled:"
+msgstr ""
+
+#: ../wp-script-core.php:223
+msgid "wps_ai_job CPT is shown in UI"
+msgstr ""
+
+#: ../wp-script-core.php:224
+msgid "Content is generated from pre-rendered data"
+msgstr ""
+
+#: ../wp-script-core.php:225
+msgid "Credits are not used"
+msgstr ""
+
+#: ../wp-script-core.php:229
+msgid "This mode is only enabled on this device."
+msgstr ""
+
+#: ../wp-script-core.php:230
+msgid "You can disable it by removing the cookie."
+msgstr ""
+
+#: ../wp-script-core.php:746, ../wp-script-core.php:768, ../wp-script-core.php:790
+msgid "Invalid key to retrieve option"
+msgstr ""
+
+#: ../wp-script-core.php:1086, ../wp-script-core.php:1086, ../wp-script-core.php:1233
+msgid "Help"
+msgstr ""
+
+#: ../wp-script-core.php:1137
+msgid "Follow us"
+msgstr ""
+
+#: ../wp-script-core.php:1223
+msgid "Plugins"
+msgstr ""
+
+#: ../wp-script-core.php:1254
+msgid "Thank you for using"
+msgstr ""
+
+#: ../admin/class/class-wpscore-api.php:99, ../admin/class/class-wpscore-api.php:121
+msgid "Params must be an array"
+msgstr ""
+
+#: ../admin/class/class-wpscore-product-installer.php:57
+msgid "You do not have sufficient permissions to install themes for this site."
+msgstr ""
+
+#: ../admin/class/class-wpscore-product-installer.php:64
+msgid "You do not have sufficient permissions to install plugins for this site."
+msgstr ""
+
+#: ../admin/cron-x/cron-bulk-ai.php:23
+msgid "Every 5 mins"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:151
+msgid "Thumbnail"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:152
+msgid "AI Content Generation"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:251, ../admin/hooks/hooks.php:252, ../admin/hooks/hooks.php:583, ../admin/pages/page-logs.php:63
+msgid "Error"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:261
+msgid "Rewritten"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:262, ../admin/hooks/hooks.php:582
+msgid "Generated"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:272
+msgid "Not rewritten"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:273
+msgid "Rewrite"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:283
+msgid "No description"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:284
+msgid "Generate"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:341
+msgid "The AI cannot generate content on posts that are not videos."
+msgstr ""
+
+#: ../admin/hooks/hooks.php:350
+msgid "The AI cannot generate content based on the current post title"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:389, ../admin/pages/page-dashboard.php:211
+msgid "AI content generation"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:390
+msgid "credits"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:390
+msgid "credit"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:417
+msgid "Original title"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:470
+msgid "Some new WP-Script products versions are available:"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:478, ../admin/hooks/hooks.php:474
+msgid "Update"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:478
+msgid "Changelog"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:467
+msgid "Some new WP-Script products versions are available."
+msgstr ""
+
+#: ../admin/hooks/hooks.php:468
+msgid "Scroll down on this page and press green update buttons to update products"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:527
+msgid "All Partners"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:574
+msgid "Title"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:575
+msgid "Description"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:579
+msgid "All AI statuses"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:580
+msgid "No status"
+msgstr ""
+
+#: ../admin/hooks/hooks.php:581
+msgid "Processing"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:31
+msgid "Loading Core"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:38
+msgid "Wordfence firewall is enabled"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:39
+msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:70
+msgid "Loading Data"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:79
+msgid "Get All Products / Unlimited Sites for only"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:100
+msgid "Site verified"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:109
+msgid "Site verification required"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:122
+msgid "Activation required"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:124
+msgid "Activation Successful"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:131
+msgid "Paste your WP-Script License Key here"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:145, ../admin/pages/page-dashboard.php:145
+msgid "Go to your WP-Script account to get your license key"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:148
+msgid "You don't have a WP-Script license yet?"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:160
+msgid "Creating account"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:163
+msgid "Create my WP-Script Account"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:170
+msgid "You will receive your login details to this email address"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:183
+msgid "Your WP-Script License Key"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:203
+msgid "Your license key is valid but hidden for security reasons."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:209
+msgid "WPS AI Content Generator"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:212
+msgid "Boost your SEO with AI"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:216
+msgid "Rewrite videos titles and generate unique descriptions in no time with Uncensored AI."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:239
+msgid "We could not retrieve products list from WP-Script."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:57
+msgid "A more recent PHP version is required"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:60
+msgctxt "[PHP version] is required..."
+msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:48
+msgid "Administrator Area"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:50
+msgid "You must be logged as an Administrator to access this page."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:250
+msgid "cUrl version"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:261, ../admin/pages/page-dashboard.php:303, ../admin/pages/page-dashboard.php:353
+msgid "Close"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:262
+msgid "How WP-Script products connection works?"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:266
+msgid "The button under each product will automatically change depending on the step you are in."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:270
+msgid "Purchase any product you need"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:276
+msgid "Connect the purchased product"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:282
+msgid "Install the purchased product"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:288
+msgid "Activate the purchased product"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:304
+msgid "Requirements for"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:308
+msgid "There is no requirement to use this product. This product will work properly."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:311
+msgid "The following PHP elements must be installed on your server to use this product"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:314
+msgid "Name"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:315, ../admin/pages/page-logs.php:57
+msgid "Type"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:327
+msgid "yes"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:330
+msgid "no"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:336
+msgid "All required PHP elements are installed on your server. This product will work properly."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:339
+msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:354
+msgid "An error occured while installing or updating"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:360
+msgid "Your server configuration prevents the product to be installed automatically."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:363
+msgid "Please try to install the product manually."
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:366
+msgid "Guide to install a WP-Script Theme manually"
+msgstr ""
+
+#: ../admin/pages/page-dashboard.php:368
+msgid "Guide to install a WP-Script Plugin manually"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:27
+msgid "Loading Core..."
+msgstr ""
+
+#: ../admin/pages/page-logs.php:35
+msgid "Loading Data..."
+msgstr ""
+
+#: ../admin/pages/page-logs.php:41
+msgid "No log has been written yet"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:46
+msgid "Copy logs to clipboard"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:47
+msgid "Delete logs"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:54
+msgid "Date"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:60
+msgid "Success"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:61
+msgid "Notice"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:62
+msgid "Warning"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:69
+msgid "Product"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:77
+msgid "Message"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:78
+msgid "Filter messages"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:82
+msgid "Location"
+msgstr ""
+
+#: ../admin/pages/page-logs.php:83
+msgid "Filter locations"
+msgstr ""
+
+#: ../xbox/includes/class-admin-page.php:32
+msgid "Save Changes"
+msgstr ""
+
+#: ../xbox/includes/class-admin-page.php:34
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../xbox/includes/class-admin-page.php:92, ../xbox/includes/class-admin-page.php:93
+msgid "Theme Options"
+msgstr ""
+
+#: ../xbox/includes/class-field-types.php:310
+msgid "Add thumbnails"
+msgstr ""
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""

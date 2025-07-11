@@ -1,0 +1,669 @@
+# Copyright (C) 2025 WPS Core
+# This file is distributed under the same license as the WPS Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-14 09:34+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: ../config.php:20, ../wp-script-core.php:1068, ../wp-script-core.php:1077
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: ../config.php:25
+msgid "Logs"
+msgstr "लॉग"
+
+#: ../localize.php:8
+msgid "Error, please try again later"
+msgstr "बाद में फिर से प्रयास करें"
+
+#: ../localize.php:9, ../admin/pages/page-dashboard.php:95, ../admin/pages/page-dashboard.php:124
+msgid "Reloading"
+msgstr "पुन: लोड"
+
+#: ../localize.php:10
+msgid "Why you need to verify this website?"
+msgstr "क्यों आपको इस वेबसाइट को सत्यापित करने की आवश्यकता है?"
+
+#: ../localize.php:11
+msgid "This verification ensures that you own this site."
+msgstr "यह सत्यापन सुनिश्चित करता है कि आप इस साइट के मालिक हैं।."
+
+#: ../localize.php:12
+msgid "It helps to secure your data in case your individual WP-Script license key is stolen or lost."
+msgstr "यदि आपके व्यक्तिगत WP-Script लाइसेंस कुंजी चोरी हो जाती है या खो जाती है तो यह आपके डेटा को सुरक्षित रखने में मदद करता है।."
+
+#: ../localize.php:13
+msgid "How to verify this website?"
+msgstr "इस वेबसाइट को कैसे सत्यापित करें?"
+
+#: ../localize.php:14
+msgid "Get the site verification code"
+msgstr "साइट सत्यापन कोड प्राप्त करें"
+
+#: ../localize.php:15
+msgid "Paste the code here"
+msgstr "यहाँ कोड पेस्ट करें"
+
+#: ../localize.php:16
+msgid "Verify this website"
+msgstr "इस वेबसाइट को सत्यापित करें"
+
+#: ../localize.php:17
+msgid "Need help?"
+msgstr "क्या मदद चाहिए?"
+
+#: ../localize.php:18
+msgid "Read the documentation"
+msgstr "प्रलेखन पढ़ें"
+
+#: ../localize.php:19
+msgid "Open a support ticket"
+msgstr "समर्थन टिकट खोलें"
+
+#: ../localize.php:20
+msgid "days left to verify your website."
+msgstr "दिन आपकी वेबसाइट को सत्यापित करने के लिए छोड़ दिया।."
+
+#: ../localize.php:21
+msgid "Your products on this site will be blocked after this date."
+msgstr "इस साइट पर आपके उत्पाद इस तारीख के बाद अवरुद्ध हो जाएंगे।."
+
+#: ../localize.php:22
+msgid "Make sure to verify all your sites that use WP-Script products."
+msgstr "WP-Script उत्पादों का उपयोग करने वाले अपने सभी साइटों को सत्यापित करना सुनिश्चित करें।."
+
+#: ../localize.php:23
+msgid "Your products on this site are blocked until you verify this website."
+msgstr "इस साइट पर आपके उत्पाद तब तक अवरुद्ध हो जाते हैं जब तक कि आप इस वेबसाइट को सत्यापित नहीं करते हैं।."
+
+#: ../localize.php:24
+msgid "Make sure to verify all your websites that use WP-Script products."
+msgstr "WP-Script उत्पादों का उपयोग करने वाली अपनी सभी वेबसाइटों को सत्यापित करना सुनिश्चित करें।."
+
+#: ../localize.php:25
+msgid "Requirements"
+msgstr "आवश्यकता"
+
+#: ../localize.php:26
+msgid "Not installed"
+msgstr "स्थापित नहीं"
+
+#: ../localize.php:27
+msgid "View details about"
+msgstr "विवरण देखें"
+
+#: ../localize.php:28, ../admin/pages/page-dashboard.php:39, ../admin/pages/page-dashboard.php:83, ../admin/pages/page-dashboard.php:218
+msgid "Learn more"
+msgstr "और अधिक जानें"
+
+#: ../localize.php:29
+msgid "Install"
+msgstr "स्थापित करना"
+
+#: ../localize.php:30
+msgid "Installing"
+msgstr "स्थापना"
+
+#: ../localize.php:31, ../admin/pages/page-dashboard.php:94, ../admin/pages/page-dashboard.php:135
+msgid "Activating"
+msgstr "सक्रिय कर रहा है"
+
+#: ../localize.php:32
+msgid "Connect"
+msgstr "कनेक्ट"
+
+#: ../localize.php:33
+msgid "Buy"
+msgstr "खरीदें"
+
+#: ../localize.php:34
+msgid "Buy now"
+msgstr "अभी खरीदें"
+
+#: ../localize.php:35, ../admin/pages/page-dashboard.php:92
+msgid "Update to"
+msgstr "इस अपडेट करें"
+
+#: ../localize.php:36, ../admin/pages/page-dashboard.php:93
+msgid "Updating to"
+msgstr "पर अद्यतन किया जा रहा है"
+
+#: ../localize.php:37, ../admin/pages/page-dashboard.php:138
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: ../localize.php:38
+msgid "Deactivate"
+msgstr "निष्क्रिय"
+
+#: ../localize.php:39
+msgid "Deactivating"
+msgstr "निष्क्रिय करना"
+
+#: ../localize.php:40
+msgid "Active theme"
+msgstr "सक्रिय विषय"
+
+#: ../localize.php:41
+msgid "must be installed to use it"
+msgstr "इसे उपयोग करने के लिए स्थापित किया जाना चाहिए"
+
+#: ../localize.php:42
+msgid "on"
+msgstr "पर"
+
+#: ../localize.php:43
+msgid "Connecting will decrease your remaining websites by 1"
+msgstr "कनेक्टिंग आपकी शेष वेबसाइटों को 1 से घटा देगा"
+
+#: ../localize.php:44
+msgid "Remaining websites"
+msgstr "वेबसाइट बनाना"
+
+#: ../localize.php:45
+msgid "Connection of"
+msgstr "का संबंध"
+
+#: ../localize.php:46
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: ../localize.php:47, ../admin/pages/page-logs.php:59, ../admin/pages/page-logs.php:71
+msgid "All"
+msgstr "सभी"
+
+#: ../localize.php:48
+msgid "Connected"
+msgstr "कनेक्ट"
+
+#: ../localize.php:49
+msgid "Not connected"
+msgstr "संबद्ध नहीं"
+
+#: ../localize.php:50, ../admin/pages/page-dashboard.php:316
+msgid "Installed"
+msgstr "स्थापित"
+
+#: ../localize.php:51
+msgid "Invalid License Key"
+msgstr "अवैध लाइसेंस कुंजी"
+
+#: ../localize.php:52, ../admin/pages/page-dashboard.php:227
+msgid "Credits left"
+msgstr "छोड़ दिया क्रेडिट"
+
+#: ../localize.php:53, ../admin/hooks/hooks.php:378, ../admin/pages/page-dashboard.php:228
+msgid "Get more Credits"
+msgstr "अधिक क्रेडिट प्राप्त करें"
+
+#: ../localize.php:54
+msgid "Error while getting credits balance"
+msgstr "ऋण राशि प्राप्त करते समय त्रुटि"
+
+#: ../localize.php:55, ../admin/hooks/hooks.php:231, ../admin/hooks/hooks.php:241
+msgid "Rewriting the title"
+msgstr "शीर्षक लिखना"
+
+#: ../localize.php:56, ../admin/hooks/hooks.php:232, ../admin/hooks/hooks.php:242
+msgid "Generating the description"
+msgstr "विवरण उत्पन्न करना"
+
+#: ../wp-script-core.php:72, ../wp-script-core.php:81, ../admin/class/class-wpscore-api.php:61, ../admin/class/class-wpscore-api.php:69, ../admin/logs/class-wpscore-log.php:50, ../admin/logs/class-wpscore-log.php:58
+msgid "Do not clone or wake up this class"
+msgstr "इस वर्ग को क्लोन या जागृत न करें"
+
+#: ../wp-script-core.php:200
+msgid "Site verification required for WP-Script products!"
+msgstr "WP-Script उत्पादों के लिए साइट सत्यापन आवश्यक है!"
+
+#: ../wp-script-core.php:200
+msgid "Please verify now"
+msgstr "अब सत्यापित करें"
+
+#: ../wp-script-core.php:221
+msgid "WPS AI Debug mode is enabled:"
+msgstr "WPS AI डिबग मोड सक्षम है:"
+
+#: ../wp-script-core.php:223
+msgid "wps_ai_job CPT is shown in UI"
+msgstr "wps_ai_job सीपीटी यूआई में दिखाया गया है"
+
+#: ../wp-script-core.php:224
+msgid "Content is generated from pre-rendered data"
+msgstr "सामग्री प्री-रेंडर डेटा से उत्पन्न होती है"
+
+#: ../wp-script-core.php:225
+msgid "Credits are not used"
+msgstr "ऋण का उपयोग नहीं किया जाता है"
+
+#: ../wp-script-core.php:229
+msgid "This mode is only enabled on this device."
+msgstr "यह मोड केवल इस डिवाइस पर सक्षम है।."
+
+#: ../wp-script-core.php:230
+msgid "You can disable it by removing the cookie."
+msgstr "आप इसे कुकी को हटाकर निष्क्रिय कर सकते हैं।."
+
+#: ../wp-script-core.php:746, ../wp-script-core.php:768, ../wp-script-core.php:790
+msgid "Invalid key to retrieve option"
+msgstr "विकल्प को पुनर्प्राप्त करने के लिए अमान्य कुंजी"
+
+#: ../wp-script-core.php:1086, ../wp-script-core.php:1086, ../wp-script-core.php:1233
+msgid "Help"
+msgstr "मदद"
+
+#: ../wp-script-core.php:1137
+msgid "Follow us"
+msgstr "हमारे पर का पालन करें"
+
+#: ../wp-script-core.php:1223
+msgid "Plugins"
+msgstr "प्लग-इन"
+
+#: ../wp-script-core.php:1254
+msgid "Thank you for using"
+msgstr "उपयोग करने के लिए आपका धन्यवाद"
+
+#: ../admin/class/class-wpscore-api.php:99, ../admin/class/class-wpscore-api.php:121
+msgid "Params must be an array"
+msgstr "पैराम्स एक सरणी होनी चाहिए"
+
+#: ../admin/class/class-wpscore-product-installer.php:57
+msgid "You do not have sufficient permissions to install themes for this site."
+msgstr "इस साइट के लिए थीम स्थापित करने के लिए आपके पास पर्याप्त अनुमति नहीं है।."
+
+#: ../admin/class/class-wpscore-product-installer.php:64
+msgid "You do not have sufficient permissions to install plugins for this site."
+msgstr "इस साइट के लिए प्लगइन स्थापित करने के लिए आपके पास पर्याप्त अनुमति नहीं है।."
+
+#: ../admin/cron-x/cron-bulk-ai.php:23
+msgid "Every 5 mins"
+msgstr "हर 5 मिनट"
+
+#: ../admin/hooks/hooks.php:151
+msgid "Thumbnail"
+msgstr "थंबनेल"
+
+#: ../admin/hooks/hooks.php:152
+msgid "AI Content Generation"
+msgstr "एआई सामग्री जनरेशन"
+
+#: ../admin/hooks/hooks.php:251, ../admin/hooks/hooks.php:252, ../admin/hooks/hooks.php:583, ../admin/pages/page-logs.php:63
+msgid "Error"
+msgstr "गलती"
+
+#: ../admin/hooks/hooks.php:261
+msgid "Rewritten"
+msgstr "Rewritten"
+
+#: ../admin/hooks/hooks.php:262, ../admin/hooks/hooks.php:582
+msgid "Generated"
+msgstr "उत्पन्न"
+
+#: ../admin/hooks/hooks.php:272
+msgid "Not rewritten"
+msgstr "फिर से लिखा नहीं"
+
+#: ../admin/hooks/hooks.php:273
+msgid "Rewrite"
+msgstr "Rewrite"
+
+#: ../admin/hooks/hooks.php:283
+msgid "No description"
+msgstr "कोई विवरण नहीं"
+
+#: ../admin/hooks/hooks.php:284
+msgid "Generate"
+msgstr "उत्पन्न करना"
+
+#: ../admin/hooks/hooks.php:341
+msgid "The AI cannot generate content on posts that are not videos."
+msgstr "एआई उन पदों पर सामग्री उत्पन्न नहीं कर सकता है जो वीडियो नहीं हैं।."
+
+#: ../admin/hooks/hooks.php:350
+msgid "The AI cannot generate content based on the current post title"
+msgstr "एआई वर्तमान पोस्ट शीर्षक के आधार पर सामग्री उत्पन्न नहीं कर सकता है"
+
+#: ../admin/hooks/hooks.php:389, ../admin/pages/page-dashboard.php:211
+msgid "AI content generation"
+msgstr "एआई सामग्री उत्पादन"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credits"
+msgstr "क्रेडिट"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credit"
+msgstr "क्रेडिट"
+
+#: ../admin/hooks/hooks.php:417
+msgid "Original title"
+msgstr "मूल शीर्षक"
+
+#: ../admin/hooks/hooks.php:470
+msgid "Some new WP-Script products versions are available:"
+msgstr "कुछ नए WP-Script उत्पाद संस्करण उपलब्ध हैं:"
+
+#: ../admin/hooks/hooks.php:478, ../admin/hooks/hooks.php:474
+msgid "Update"
+msgstr "अपडेट"
+
+#: ../admin/hooks/hooks.php:478
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../admin/hooks/hooks.php:467
+msgid "Some new WP-Script products versions are available."
+msgstr "कुछ नए WP-Script उत्पाद संस्करण उपलब्ध हैं।."
+
+#: ../admin/hooks/hooks.php:468
+msgid "Scroll down on this page and press green update buttons to update products"
+msgstr "इस पृष्ठ पर स्क्रॉल करें और उत्पादों को अद्यतन करने के लिए ग्रीन अपडेट बटन दबाएं"
+
+#: ../admin/hooks/hooks.php:527
+msgid "All Partners"
+msgstr "सभी पार्टनर"
+
+#: ../admin/hooks/hooks.php:574
+msgid "Title"
+msgstr "शीर्षक"
+
+#: ../admin/hooks/hooks.php:575
+msgid "Description"
+msgstr "विवरण"
+
+#: ../admin/hooks/hooks.php:579
+msgid "All AI statuses"
+msgstr "सभी AI स्टेटस"
+
+#: ../admin/hooks/hooks.php:580
+msgid "No status"
+msgstr "कोई स्थिति नहीं"
+
+#: ../admin/hooks/hooks.php:581
+msgid "Processing"
+msgstr "प्रसंस्करण"
+
+#: ../admin/pages/page-dashboard.php:31
+msgid "Loading Core"
+msgstr "कोर लोड हो रहा है"
+
+#: ../admin/pages/page-dashboard.php:38
+msgid "Wordfence firewall is enabled"
+msgstr "वर्डफ़ेंस फ़ायरवॉल सक्षम है"
+
+#: ../admin/pages/page-dashboard.php:39
+msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
+msgstr "वर्डफेंस फ़ायरवॉल मोड सक्षम है और झूठी सकारात्मकता के कारण WP-स्क्रिप्ट प्लगइन्स को ठीक से काम करने से रोक सकता है।"
+
+#: ../admin/pages/page-dashboard.php:70
+msgid "Loading Data"
+msgstr "डेटा लोड हो रहा है"
+
+#: ../admin/pages/page-dashboard.php:79
+msgid "Get All Products / Unlimited Sites for only"
+msgstr "सभी उत्पाद/असीमित साइटें केवल मुफ़्त में प्राप्त करें"
+
+#: ../admin/pages/page-dashboard.php:100
+msgid "Site verified"
+msgstr "साइट सत्यापित"
+
+#: ../admin/pages/page-dashboard.php:109
+msgid "Site verification required"
+msgstr "साइट सत्यापन आवश्यक है"
+
+#: ../admin/pages/page-dashboard.php:122
+msgid "Activation required"
+msgstr "सक्रिय करना आवश्यक"
+
+#: ../admin/pages/page-dashboard.php:124
+msgid "Activation Successful"
+msgstr "सक्रियण सफल"
+
+#: ../admin/pages/page-dashboard.php:131
+msgid "Paste your WP-Script License Key here"
+msgstr "अपनी WP-स्क्रिप्ट लाइसेंस कुंजी यहां चिपकाएँ"
+
+#: ../admin/pages/page-dashboard.php:145, ../admin/pages/page-dashboard.php:145
+msgid "Go to your WP-Script account to get your license key"
+msgstr "अपनी लाइसेंस कुंजी प्राप्त करने के लिए अपने WP-स्क्रिप्ट खाते पर जाएँ"
+
+#: ../admin/pages/page-dashboard.php:148
+msgid "You don't have a WP-Script license yet?"
+msgstr "आपके पास अभी तक WP-स्क्रिप्ट लाइसेंस नहीं है?"
+
+#: ../admin/pages/page-dashboard.php:160
+msgid "Creating account"
+msgstr "खाता बनाना"
+
+#: ../admin/pages/page-dashboard.php:163
+msgid "Create my WP-Script Account"
+msgstr "मेरा WP-स्क्रिप्ट खाता बनाएँ"
+
+#: ../admin/pages/page-dashboard.php:170
+msgid "You will receive your login details to this email address"
+msgstr "आपको अपना लॉगिन विवरण इस ईमेल पते पर प्राप्त होगा"
+
+#: ../admin/pages/page-dashboard.php:183
+msgid "Your WP-Script License Key"
+msgstr "आपकी WP-स्क्रिप्ट लाइसेंस कुंजी"
+
+#: ../admin/pages/page-dashboard.php:203
+msgid "Your license key is valid but hidden for security reasons."
+msgstr "आपकी लाइसेंस कुंजी वैध है लेकिन सुरक्षा कारणों से छिपी हुई है।"
+
+#: ../admin/pages/page-dashboard.php:209
+msgid "WPS AI Content Generator"
+msgstr "WPS AI कंटेंट जेनरेटर"
+
+#: ../admin/pages/page-dashboard.php:212
+msgid "Boost your SEO with AI"
+msgstr "एआई के साथ अपने एसईओ को बढ़ावा दें"
+
+#: ../admin/pages/page-dashboard.php:216
+msgid "Rewrite videos titles and generate unique descriptions in no time with Uncensored AI."
+msgstr "Uncensored AI के साथ कुछ समय में वीडियो खिताब फिर से लिखना और अद्वितीय विवरण उत्पन्न करना।."
+
+#: ../admin/pages/page-dashboard.php:239
+msgid "We could not retrieve products list from WP-Script."
+msgstr "हम WP-स्क्रिप्ट से उत्पादों की सूची पुनर्प्राप्त नहीं कर सके।"
+
+#: ../admin/pages/page-dashboard.php:57
+msgid "A more recent PHP version is required"
+msgstr "एक नवीनतम PHP संस्करण की आवश्यकता है"
+
+#: ../admin/pages/page-dashboard.php:60
+msgctxt "[PHP version] is required..."
+msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
+msgstr "%20आवश्यक है%20to%20use%20WP-Script%20products.%20आपका%20PHP%20version%20(%s)%20%20बहुत%20पुराना है.%20कृपया%20संपर्क करें%20आपका%20होस्टर%20to%20अपडेट%20it"
+
+#: ../admin/pages/page-dashboard.php:48
+msgid "Administrator Area"
+msgstr "प्रशासक क्षेत्र"
+
+#: ../admin/pages/page-dashboard.php:50
+msgid "You must be logged as an Administrator to access this page."
+msgstr "इस पृष्ठ तक पहुंचने के लिए आपको प्रशासक के रूप में लॉग इन होना होगा।"
+
+#: ../admin/pages/page-dashboard.php:250
+msgid "cUrl version"
+msgstr "c Url संस्करण"
+
+#: ../admin/pages/page-dashboard.php:261, ../admin/pages/page-dashboard.php:303, ../admin/pages/page-dashboard.php:353
+msgid "Close"
+msgstr "बंद करना"
+
+#: ../admin/pages/page-dashboard.php:262
+msgid "How WP-Script products connection works?"
+msgstr "WP-स्क्रिप्ट उत्पाद कनेक्शन कैसे काम करता है?"
+
+#: ../admin/pages/page-dashboard.php:266
+msgid "The button under each product will automatically change depending on the step you are in."
+msgstr "आप जिस चरण में हैं उसके आधार पर प्रत्येक उत्पाद के नीचे का बटन स्वचालित रूप से बदल जाएगा।"
+
+#: ../admin/pages/page-dashboard.php:270
+msgid "Purchase any product you need"
+msgstr "अपनी ज़रूरत का कोई भी उत्पाद खरीदें"
+
+#: ../admin/pages/page-dashboard.php:276
+msgid "Connect the purchased product"
+msgstr "खरीदे गए उत्पाद को कनेक्ट करें"
+
+#: ../admin/pages/page-dashboard.php:282
+msgid "Install the purchased product"
+msgstr "खरीदे गए उत्पाद को स्थापित करें"
+
+#: ../admin/pages/page-dashboard.php:288
+msgid "Activate the purchased product"
+msgstr "खरीदे गए उत्पाद को सक्रिय करें"
+
+#: ../admin/pages/page-dashboard.php:304
+msgid "Requirements for"
+msgstr "के लिये जरूरतें"
+
+#: ../admin/pages/page-dashboard.php:308
+msgid "There is no requirement to use this product. This product will work properly."
+msgstr "इस उत्पाद का उपयोग करने की कोई आवश्यकता नहीं है. यह उत्पाद ठीक से काम करेगा."
+
+#: ../admin/pages/page-dashboard.php:311
+msgid "The following PHP elements must be installed on your server to use this product"
+msgstr "इस उत्पाद का उपयोग करने के लिए आपके सर्वर पर निम्नलिखित PHP तत्व स्थापित होने चाहिए"
+
+#: ../admin/pages/page-dashboard.php:314
+msgid "Name"
+msgstr "नाम"
+
+#: ../admin/pages/page-dashboard.php:315, ../admin/pages/page-logs.php:57
+msgid "Type"
+msgstr "प्रकार"
+
+#: ../admin/pages/page-dashboard.php:327
+msgid "yes"
+msgstr "हाँ"
+
+#: ../admin/pages/page-dashboard.php:330
+msgid "no"
+msgstr "नहीं"
+
+#: ../admin/pages/page-dashboard.php:336
+msgid "All required PHP elements are installed on your server. This product will work properly."
+msgstr "सभी आवश्यक PHP तत्व आपके सर्वर पर स्थापित हैं। यह उत्पाद ठीक से काम करेगा."
+
+#: ../admin/pages/page-dashboard.php:339
+msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
+msgstr "कुछ PHP तत्व आपके सर्वर पर स्थापित नहीं हैं। हो सकता है कि यह उत्पाद ठीक से काम न करे. कृपया अपने वेब होस्टर से संपर्क करें."
+
+#: ../admin/pages/page-dashboard.php:354
+msgid "An error occured while installing or updating"
+msgstr "इंस्टॉल या अपडेट करते समय कोई त्रुटि उत्पन्न हुई"
+
+#: ../admin/pages/page-dashboard.php:360
+msgid "Your server configuration prevents the product to be installed automatically."
+msgstr "आपका सर्वर कॉन्फ़िगरेशन उत्पाद को स्वचालित रूप से इंस्टॉल होने से रोकता है।"
+
+#: ../admin/pages/page-dashboard.php:363
+msgid "Please try to install the product manually."
+msgstr "कृपया उत्पाद को मैन्युअल रूप से इंस्टॉल करने का प्रयास करें।"
+
+#: ../admin/pages/page-dashboard.php:366
+msgid "Guide to install a WP-Script Theme manually"
+msgstr "WP-स्क्रिप्ट थीम को मैन्युअल रूप से इंस्टॉल करने के लिए गाइड"
+
+#: ../admin/pages/page-dashboard.php:368
+msgid "Guide to install a WP-Script Plugin manually"
+msgstr "WP-स्क्रिप्ट प्लगइन को मैन्युअल रूप से इंस्टॉल करने के लिए गाइड"
+
+#: ../admin/pages/page-logs.php:27
+msgid "Loading Core..."
+msgstr "कोर लोड हो रहा है..."
+
+#: ../admin/pages/page-logs.php:35
+msgid "Loading Data..."
+msgstr "डेटा लोड हो रहा है..."
+
+#: ../admin/pages/page-logs.php:41
+msgid "No log has been written yet"
+msgstr "अभी तक कोई लॉग नहीं लिखा गया है"
+
+#: ../admin/pages/page-logs.php:46
+msgid "Copy logs to clipboard"
+msgstr "लॉग को क्लिपबोर्ड पर कॉपी करें"
+
+#: ../admin/pages/page-logs.php:47
+msgid "Delete logs"
+msgstr "लॉग हटाएँ"
+
+#: ../admin/pages/page-logs.php:54
+msgid "Date"
+msgstr "तारीख"
+
+#: ../admin/pages/page-logs.php:60
+msgid "Success"
+msgstr "सफलता"
+
+#: ../admin/pages/page-logs.php:61
+msgid "Notice"
+msgstr "सूचना"
+
+#: ../admin/pages/page-logs.php:62
+msgid "Warning"
+msgstr "चेतावनी"
+
+#: ../admin/pages/page-logs.php:69
+msgid "Product"
+msgstr "उत्पाद"
+
+#: ../admin/pages/page-logs.php:77
+msgid "Message"
+msgstr "संदेश"
+
+#: ../admin/pages/page-logs.php:78
+msgid "Filter messages"
+msgstr "फ़िल्टर संदेश"
+
+#: ../admin/pages/page-logs.php:82
+msgid "Location"
+msgstr "जगह"
+
+#: ../admin/pages/page-logs.php:83
+msgid "Filter locations"
+msgstr "फ़िल्टर स्थान"
+
+#: ../xbox/includes/class-admin-page.php:32
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: ../xbox/includes/class-admin-page.php:34
+msgid "Reset to Defaults"
+msgstr "डिफ़ॉल्ट पर पुनः सेट करें"
+
+#: ../xbox/includes/class-admin-page.php:92, ../xbox/includes/class-admin-page.php:93
+msgid "Theme Options"
+msgstr "विषय विकल्प"
+
+#: ../xbox/includes/class-field-types.php:310
+msgid "Add thumbnails"
+msgstr "थंबनेल जोड़ें"
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr "सब कुछ कर दिया।"
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "मस्ती करो!"

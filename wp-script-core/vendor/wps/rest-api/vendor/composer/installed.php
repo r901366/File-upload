@@ -1,0 +1,63 @@
+<?php return array(
+    'root' => array(
+        'name' => 'wps/rest-api',
+        'pretty_version' => '0.0.1',
+        'version' => '0.0.1.0',
+        'reference' => null,
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'icecave/parity' => array(
+            'pretty_version' => '3.0.1',
+            'version' => '3.0.1.0',
+            'reference' => '4fe835483e0f89f0f96763c47cb9fdca26c24bdc',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../icecave/parity',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'icecave/repr' => array(
+            'pretty_version' => '4.0.0',
+            'version' => '4.0.0.0',
+            'reference' => '3dad35ee43394404ae0f1926d754e7b7820da8e4',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../icecave/repr',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'justinrainbow/json-schema' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '14e41d82de03f8bcf842178a2ce31c83152537c8',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../justinrainbow/json-schema',
+            'aliases' => array(
+                0 => '6.x-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'marc-mabe/php-enum' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '7159809e5cfa041dca28e61f7f7ae58063aae8ed',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../marc-mabe/php-enum',
+            'aliases' => array(
+                0 => '4.7.x-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'wps/rest-api' => array(
+            'pretty_version' => '0.0.1',
+            'version' => '0.0.1.0',
+            'reference' => null,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

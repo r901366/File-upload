@@ -1,0 +1,16 @@
+{
+    "name": "wps/ai",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "WPS\\Ai\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2 || ^8.0",
+        "pear/text_languagedetect": "^1.0"
+    }
+}

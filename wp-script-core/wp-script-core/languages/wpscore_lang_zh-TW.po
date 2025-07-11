@@ -1,0 +1,669 @@
+# Copyright (C) 2025 WPS Core
+# This file is distributed under the same license as the WPS Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-14 09:34+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: ../config.php:20, ../wp-script-core.php:1068, ../wp-script-core.php:1077
+msgid "Dashboard"
+msgstr "儀表板"
+
+#: ../config.php:25
+msgid "Logs"
+msgstr "日志"
+
+#: ../localize.php:8
+msgid "Error, please try again later"
+msgstr "出錯, 請稍後再試"
+
+#: ../localize.php:9, ../admin/pages/page-dashboard.php:95, ../admin/pages/page-dashboard.php:124
+msgid "Reloading"
+msgstr "重新載入中"
+
+#: ../localize.php:10
+msgid "Why you need to verify this website?"
+msgstr "你為什麼需要查取這個網站?"
+
+#: ../localize.php:11
+msgid "This verification ensures that you own this site."
+msgstr "這個驗證能確保您有這個站點."
+
+#: ../localize.php:12
+msgid "It helps to secure your data in case your individual WP-Script license key is stolen or lost."
+msgstr "如果您的個人 WP-Script 許可證密鑰被盜或遺失，它有助於保護您的資料。"
+
+#: ../localize.php:13
+msgid "How to verify this website?"
+msgstr "如何去驗證這個網站?"
+
+#: ../localize.php:14
+msgid "Get the site verification code"
+msgstr "有站口檢查碼"
+
+#: ../localize.php:15
+msgid "Paste the code here"
+msgstr "在此貼上密碼"
+
+#: ../localize.php:16
+msgid "Verify this website"
+msgstr "檢查此網站"
+
+#: ../localize.php:17
+msgid "Need help?"
+msgstr "有需要幫忙?"
+
+#: ../localize.php:18
+msgid "Read the documentation"
+msgstr "讀取相關文件"
+
+#: ../localize.php:19
+msgid "Open a support ticket"
+msgstr "打开支持票"
+
+#: ../localize.php:20
+msgid "days left to verify your website."
+msgstr "有好幾天可以去檢查你的網站了."
+
+#: ../localize.php:21
+msgid "Your products on this site will be blocked after this date."
+msgstr "您在此地的產品將被封鎖出此日期后."
+
+#: ../localize.php:22
+msgid "Make sure to verify all your sites that use WP-Script products."
+msgstr "請確認您所有使用 WP- Script 產品的站點 ."
+
+#: ../localize.php:23
+msgid "Your products on this site are blocked until you verify this website."
+msgstr "在您證實這個網站前, 您的網站被封鎖了 ."
+
+#: ../localize.php:24
+msgid "Make sure to verify all your websites that use WP-Script products."
+msgstr "請確認您使用 WP- Script 產品的所有網站 ."
+
+#: ../localize.php:25
+msgid "Requirements"
+msgstr "二. 需要"
+
+#: ../localize.php:26
+msgid "Not installed"
+msgstr "未安裝"
+
+#: ../localize.php:27
+msgid "View details about"
+msgstr "查看關於"
+
+#: ../localize.php:28, ../admin/pages/page-dashboard.php:39, ../admin/pages/page-dashboard.php:83, ../admin/pages/page-dashboard.php:218
+msgid "Learn more"
+msgstr "了解更多"
+
+#: ../localize.php:29
+msgid "Install"
+msgstr "安裝"
+
+#: ../localize.php:30
+msgid "Installing"
+msgstr "安裝中"
+
+#: ../localize.php:31, ../admin/pages/page-dashboard.php:94, ../admin/pages/page-dashboard.php:135
+msgid "Activating"
+msgstr "正在啟用"
+
+#: ../localize.php:32
+msgid "Connect"
+msgstr "連接"
+
+#: ../localize.php:33
+msgid "Buy"
+msgstr "買"
+
+#: ../localize.php:34
+msgid "Buy now"
+msgstr "就快去買了"
+
+#: ../localize.php:35, ../admin/pages/page-dashboard.php:92
+msgid "Update to"
+msgstr "更新至"
+
+#: ../localize.php:36, ../admin/pages/page-dashboard.php:93
+msgid "Updating to"
+msgstr "正在更新至"
+
+#: ../localize.php:37, ../admin/pages/page-dashboard.php:138
+msgid "Activate"
+msgstr "啟用"
+
+#: ../localize.php:38
+msgid "Deactivate"
+msgstr "關閉"
+
+#: ../localize.php:39
+msgid "Deactivating"
+msgstr "停用"
+
+#: ../localize.php:40
+msgid "Active theme"
+msgstr "活性主題"
+
+#: ../localize.php:41
+msgid "must be installed to use it"
+msgstr "必須被安裝以使用"
+
+#: ../localize.php:42
+msgid "on"
+msgstr "上"
+
+#: ../localize.php:43
+msgid "Connecting will decrease your remaining websites by 1"
+msgstr "接通會把您所剩網站减少一分"
+
+#: ../localize.php:44
+msgid "Remaining websites"
+msgstr "所剩网站"
+
+#: ../localize.php:45
+msgid "Connection of"
+msgstr "二. 接通"
+
+#: ../localize.php:46
+msgid "Cancel"
+msgstr "取消"
+
+#: ../localize.php:47, ../admin/pages/page-logs.php:59, ../admin/pages/page-logs.php:71
+msgid "All"
+msgstr "所有"
+
+#: ../localize.php:48
+msgid "Connected"
+msgstr "已連接"
+
+#: ../localize.php:49
+msgid "Not connected"
+msgstr "未接通"
+
+#: ../localize.php:50, ../admin/pages/page-dashboard.php:316
+msgid "Installed"
+msgstr "已安裝"
+
+#: ../localize.php:51
+msgid "Invalid License Key"
+msgstr "無效的授權金鑰"
+
+#: ../localize.php:52, ../admin/pages/page-dashboard.php:227
+msgid "Credits left"
+msgstr "剩下的功勞"
+
+#: ../localize.php:53, ../admin/hooks/hooks.php:378, ../admin/pages/page-dashboard.php:228
+msgid "Get more Credits"
+msgstr "得到更多的信用"
+
+#: ../localize.php:54
+msgid "Error while getting credits balance"
+msgstr "在取得入分余额出錯"
+
+#: ../localize.php:55, ../admin/hooks/hooks.php:231, ../admin/hooks/hooks.php:241
+msgid "Rewriting the title"
+msgstr "重寫取名"
+
+#: ../localize.php:56, ../admin/hooks/hooks.php:232, ../admin/hooks/hooks.php:242
+msgid "Generating the description"
+msgstr "生成描述"
+
+#: ../wp-script-core.php:72, ../wp-script-core.php:81, ../admin/class/class-wpscore-api.php:61, ../admin/class/class-wpscore-api.php:69, ../admin/logs/class-wpscore-log.php:50, ../admin/logs/class-wpscore-log.php:58
+msgid "Do not clone or wake up this class"
+msgstr "不要克隆或喚醒該類"
+
+#: ../wp-script-core.php:200
+msgid "Site verification required for WP-Script products!"
+msgstr "WP-Script出品需要站點核對!"
+
+#: ../wp-script-core.php:200
+msgid "Please verify now"
+msgstr "就快去檢查一下"
+
+#: ../wp-script-core.php:221
+msgid "WPS AI Debug mode is enabled:"
+msgstr "已啟用 WPS AI 除錯模式:"
+
+#: ../wp-script-core.php:223
+msgid "wps_ai_job CPT is shown in UI"
+msgstr "wps_ai_工作 CPT 在 UI 中顯示"
+
+#: ../wp-script-core.php:224
+msgid "Content is generated from pre-rendered data"
+msgstr "內容取自已上傳的相關資料"
+
+#: ../wp-script-core.php:225
+msgid "Credits are not used"
+msgstr "不使用信用"
+
+#: ../wp-script-core.php:229
+msgid "This mode is only enabled on this device."
+msgstr "此模式只被啟用于此裝置 ."
+
+#: ../wp-script-core.php:230
+msgid "You can disable it by removing the cookie."
+msgstr "你可以取出克裡克而去除它."
+
+#: ../wp-script-core.php:746, ../wp-script-core.php:768, ../wp-script-core.php:790
+msgid "Invalid key to retrieve option"
+msgstr "取回選項的金鑰不合法"
+
+#: ../wp-script-core.php:1086, ../wp-script-core.php:1086, ../wp-script-core.php:1233
+msgid "Help"
+msgstr "幫助中心"
+
+#: ../wp-script-core.php:1137
+msgid "Follow us"
+msgstr "跟著我們"
+
+#: ../wp-script-core.php:1223
+msgid "Plugins"
+msgstr "插件"
+
+#: ../wp-script-core.php:1254
+msgid "Thank you for using"
+msgstr "感謝您使用WP-Script"
+
+#: ../admin/class/class-wpscore-api.php:99, ../admin/class/class-wpscore-api.php:121
+msgid "Params must be an array"
+msgstr "Params必須是一個數組"
+
+#: ../admin/class/class-wpscore-product-installer.php:57
+msgid "You do not have sufficient permissions to install themes for this site."
+msgstr "您沒有足夠的權限安裝此站台的主題 ."
+
+#: ../admin/class/class-wpscore-product-installer.php:64
+msgid "You do not have sufficient permissions to install plugins for this site."
+msgstr "您沒有足夠的權限去安裝此站台的外掛程式 ."
+
+#: ../admin/cron-x/cron-bulk-ai.php:23
+msgid "Every 5 mins"
+msgstr "每5分鐘"
+
+#: ../admin/hooks/hooks.php:151
+msgid "Thumbnail"
+msgstr "縮略圖"
+
+#: ../admin/hooks/hooks.php:152
+msgid "AI Content Generation"
+msgstr "AI 內容產生"
+
+#: ../admin/hooks/hooks.php:251, ../admin/hooks/hooks.php:252, ../admin/hooks/hooks.php:583, ../admin/pages/page-logs.php:63
+msgid "Error"
+msgstr "錯誤"
+
+#: ../admin/hooks/hooks.php:261
+msgid "Rewritten"
+msgstr "重寫"
+
+#: ../admin/hooks/hooks.php:262, ../admin/hooks/hooks.php:582
+msgid "Generated"
+msgstr "已產生"
+
+#: ../admin/hooks/hooks.php:272
+msgid "Not rewritten"
+msgstr "不重寫"
+
+#: ../admin/hooks/hooks.php:273
+msgid "Rewrite"
+msgstr "重寫"
+
+#: ../admin/hooks/hooks.php:283
+msgid "No description"
+msgstr "沒有描述"
+
+#: ../admin/hooks/hooks.php:284
+msgid "Generate"
+msgstr "生成"
+
+#: ../admin/hooks/hooks.php:341
+msgid "The AI cannot generate content on posts that are not videos."
+msgstr "此外."
+
+#: ../admin/hooks/hooks.php:350
+msgid "The AI cannot generate content based on the current post title"
+msgstr "AI 無法以目前文章名產生內容"
+
+#: ../admin/hooks/hooks.php:389, ../admin/pages/page-dashboard.php:211
+msgid "AI content generation"
+msgstr "AI 內容產生"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credits"
+msgstr "入分"
+
+#: ../admin/hooks/hooks.php:390
+msgid "credit"
+msgstr "信用"
+
+#: ../admin/hooks/hooks.php:417
+msgid "Original title"
+msgstr "原始标题"
+
+#: ../admin/hooks/hooks.php:470
+msgid "Some new WP-Script products versions are available:"
+msgstr "有新的WP-Script出品版本:"
+
+#: ../admin/hooks/hooks.php:478, ../admin/hooks/hooks.php:474
+msgid "Update"
+msgstr "更新"
+
+#: ../admin/hooks/hooks.php:478
+msgid "Changelog"
+msgstr "變更紀錄"
+
+#: ../admin/hooks/hooks.php:467
+msgid "Some new WP-Script products versions are available."
+msgstr "有新的WP-Script出品版本."
+
+#: ../admin/hooks/hooks.php:468
+msgid "Scroll down on this page and press green update buttons to update products"
+msgstr "在頁面上向下滚动并按下綠色更新按鈕以更新產品"
+
+#: ../admin/hooks/hooks.php:527
+msgid "All Partners"
+msgstr "所有合伙人"
+
+#: ../admin/hooks/hooks.php:574
+msgid "Title"
+msgstr "篇"
+
+#: ../admin/hooks/hooks.php:575
+msgid "Description"
+msgstr "描述"
+
+#: ../admin/hooks/hooks.php:579
+msgid "All AI statuses"
+msgstr "所有 AI 狀態"
+
+#: ../admin/hooks/hooks.php:580
+msgid "No status"
+msgstr "沒有狀態"
+
+#: ../admin/hooks/hooks.php:581
+msgid "Processing"
+msgstr "處理"
+
+#: ../admin/pages/page-dashboard.php:31
+msgid "Loading Core"
+msgstr "正在加載核心文件"
+
+#: ../admin/pages/page-dashboard.php:38
+msgid "Wordfence firewall is enabled"
+msgstr "Wordfence防火牆已啟用"
+
+#: ../admin/pages/page-dashboard.php:39
+msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
+msgstr "Wordfence防火牆模式已啟用，並且可以防止WP-Script插件因錯誤而無法正常運作。"
+
+#: ../admin/pages/page-dashboard.php:70
+msgid "Loading Data"
+msgstr "加載數據中"
+
+#: ../admin/pages/page-dashboard.php:79
+msgid "Get All Products / Unlimited Sites for only"
+msgstr "只獲取所有產品/無限網站"
+
+#: ../admin/pages/page-dashboard.php:100
+msgid "Site verified"
+msgstr "網站已驗證"
+
+#: ../admin/pages/page-dashboard.php:109
+msgid "Site verification required"
+msgstr "需要現場驗證"
+
+#: ../admin/pages/page-dashboard.php:122
+msgid "Activation required"
+msgstr "要求激活"
+
+#: ../admin/pages/page-dashboard.php:124
+msgid "Activation Successful"
+msgstr "激活成功"
+
+#: ../admin/pages/page-dashboard.php:131
+msgid "Paste your WP-Script License Key here"
+msgstr "請在這裡貼上您的WP-Script授權碼"
+
+#: ../admin/pages/page-dashboard.php:145, ../admin/pages/page-dashboard.php:145
+msgid "Go to your WP-Script account to get your license key"
+msgstr "前往您的WP-Script賬戶，找到您的授權碼"
+
+#: ../admin/pages/page-dashboard.php:148
+msgid "You don't have a WP-Script license yet?"
+msgstr "還沒購買WP-Script授權碼?"
+
+#: ../admin/pages/page-dashboard.php:160
+msgid "Creating account"
+msgstr "創建帳戶"
+
+#: ../admin/pages/page-dashboard.php:163
+msgid "Create my WP-Script Account"
+msgstr "創建我的WP-Script賬戶"
+
+#: ../admin/pages/page-dashboard.php:170
+msgid "You will receive your login details to this email address"
+msgstr "您將在這個電子郵件地址收到您的登錄信息"
+
+#: ../admin/pages/page-dashboard.php:183
+msgid "Your WP-Script License Key"
+msgstr "您的WP-Script授權碼"
+
+#: ../admin/pages/page-dashboard.php:203
+msgid "Your license key is valid but hidden for security reasons."
+msgstr "您的許可證密鑰有效，但出於安全原因被隱藏。"
+
+#: ../admin/pages/page-dashboard.php:209
+msgid "WPS AI Content Generator"
+msgstr "WPS AI 內容產生器"
+
+#: ../admin/pages/page-dashboard.php:212
+msgid "Boost your SEO with AI"
+msgstr "以 AI 为您助推 SEO"
+
+#: ../admin/pages/page-dashboard.php:216
+msgid "Rewrite videos titles and generate unique descriptions in no time with Uncensored AI."
+msgstr "在未受審查的AI下."
+
+#: ../admin/pages/page-dashboard.php:239
+msgid "We could not retrieve products list from WP-Script."
+msgstr "我們無法從 WP-Script 檢索產品清單。"
+
+#: ../admin/pages/page-dashboard.php:57
+msgid "A more recent PHP version is required"
+msgstr "需要更新的 PHP 版本"
+
+#: ../admin/pages/page-dashboard.php:60
+msgctxt "[PHP version] is required..."
+msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
+msgstr "並不符合基本要求，您的PHP版本 (%s) 太舊，如需要使用WP-Script產品，請聯繫您的主機供應商進行更新"
+
+#: ../admin/pages/page-dashboard.php:48
+msgid "Administrator Area"
+msgstr "管理員專區"
+
+#: ../admin/pages/page-dashboard.php:50
+msgid "You must be logged as an Administrator to access this page."
+msgstr "您必須以管理員身分登入才能存取此頁面。"
+
+#: ../admin/pages/page-dashboard.php:250
+msgid "cUrl version"
+msgstr "(c) 網址版本"
+
+#: ../admin/pages/page-dashboard.php:261, ../admin/pages/page-dashboard.php:303, ../admin/pages/page-dashboard.php:353
+msgid "Close"
+msgstr "關閉"
+
+#: ../admin/pages/page-dashboard.php:262
+msgid "How WP-Script products connection works?"
+msgstr "如何與WP-Script產品連接？"
+
+#: ../admin/pages/page-dashboard.php:266
+msgid "The button under each product will automatically change depending on the step you are in."
+msgstr "每個產品下面的按鍵將根據您的狀態改變"
+
+#: ../admin/pages/page-dashboard.php:270
+msgid "Purchase any product you need"
+msgstr "購買你需要的產品"
+
+#: ../admin/pages/page-dashboard.php:276
+msgid "Connect the purchased product"
+msgstr "連接所購產品"
+
+#: ../admin/pages/page-dashboard.php:282
+msgid "Install the purchased product"
+msgstr "安裝已購買的產品"
+
+#: ../admin/pages/page-dashboard.php:288
+msgid "Activate the purchased product"
+msgstr "激活所購產品"
+
+#: ../admin/pages/page-dashboard.php:304
+msgid "Requirements for"
+msgstr "對於"
+
+#: ../admin/pages/page-dashboard.php:308
+msgid "There is no requirement to use this product. This product will work properly."
+msgstr "本產品並非無使用要求，產品將正常工作。"
+
+#: ../admin/pages/page-dashboard.php:311
+msgid "The following PHP elements must be installed on your server to use this product"
+msgstr "如要使用本產品，安裝必須在服務器上安裝下列的PHP元件"
+
+#: ../admin/pages/page-dashboard.php:314
+msgid "Name"
+msgstr "名稱"
+
+#: ../admin/pages/page-dashboard.php:315, ../admin/pages/page-logs.php:57
+msgid "Type"
+msgstr "類型"
+
+#: ../admin/pages/page-dashboard.php:327
+msgid "yes"
+msgstr "是"
+
+#: ../admin/pages/page-dashboard.php:330
+msgid "no"
+msgstr "否"
+
+#: ../admin/pages/page-dashboard.php:336
+msgid "All required PHP elements are installed on your server. This product will work properly."
+msgstr "所有需要的PHP元件已在服務器上安裝，該產品將正常工作。"
+
+#: ../admin/pages/page-dashboard.php:339
+msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
+msgstr "PHP的一些元件並未在服務器上安裝。本產品可能無法正常工作。請聯繫您的1主機託管商。"
+
+#: ../admin/pages/page-dashboard.php:354
+msgid "An error occured while installing or updating"
+msgstr "在安裝或更新時出現錯誤"
+
+#: ../admin/pages/page-dashboard.php:360
+msgid "Your server configuration prevents the product to be installed automatically."
+msgstr "你的服務器配置導致產品無法自動安裝。"
+
+#: ../admin/pages/page-dashboard.php:363
+msgid "Please try to install the product manually."
+msgstr "請嘗試手動安裝該產品。"
+
+#: ../admin/pages/page-dashboard.php:366
+msgid "Guide to install a WP-Script Theme manually"
+msgstr "手動安裝 WP-Script 主題的指南"
+
+#: ../admin/pages/page-dashboard.php:368
+msgid "Guide to install a WP-Script Plugin manually"
+msgstr "手動安裝 WP-Script 插件的指南"
+
+#: ../admin/pages/page-logs.php:27
+msgid "Loading Core..."
+msgstr "正在載入 Core --."
+
+#: ../admin/pages/page-logs.php:35
+msgid "Loading Data..."
+msgstr "正在載入資料..."
+
+#: ../admin/pages/page-logs.php:41
+msgid "No log has been written yet"
+msgstr "沒有日誌"
+
+#: ../admin/pages/page-logs.php:46
+msgid "Copy logs to clipboard"
+msgstr "複製日誌到剪貼板"
+
+#: ../admin/pages/page-logs.php:47
+msgid "Delete logs"
+msgstr "刪除日誌"
+
+#: ../admin/pages/page-logs.php:54
+msgid "Date"
+msgstr "日期"
+
+#: ../admin/pages/page-logs.php:60
+msgid "Success"
+msgstr "成功"
+
+#: ../admin/pages/page-logs.php:61
+msgid "Notice"
+msgstr "注意"
+
+#: ../admin/pages/page-logs.php:62
+msgid "Warning"
+msgstr "警告"
+
+#: ../admin/pages/page-logs.php:69
+msgid "Product"
+msgstr "產品"
+
+#: ../admin/pages/page-logs.php:77
+msgid "Message"
+msgstr "信息"
+
+#: ../admin/pages/page-logs.php:78
+msgid "Filter messages"
+msgstr "过滤信件"
+
+#: ../admin/pages/page-logs.php:82
+msgid "Location"
+msgstr "位置"
+
+#: ../admin/pages/page-logs.php:83
+msgid "Filter locations"
+msgstr "过滤位置"
+
+#: ../xbox/includes/class-admin-page.php:32
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: ../xbox/includes/class-admin-page.php:34
+msgid "Reset to Defaults"
+msgstr "重設為預設值"
+
+#: ../xbox/includes/class-admin-page.php:92, ../xbox/includes/class-admin-page.php:93
+msgid "Theme Options"
+msgstr "主題選項"
+
+#: ../xbox/includes/class-field-types.php:310
+msgid "Add thumbnails"
+msgstr "新增縮圖"
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr "全做完了。"
+
+#: ../xbox/libs/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "玩得開心！"

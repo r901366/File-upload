@@ -1,0 +1,16 @@
+{
+    "name": "wps/rest-api",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "WPS\\RestApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2 || ^8.0",
+        "justinrainbow/json-schema": "^6.0@dev"
+    }
+}
